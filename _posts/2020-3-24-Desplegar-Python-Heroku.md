@@ -3,7 +3,7 @@ layout: post
 title: Desplegar un App Flask en Heroku
 ---
 
-Como ejemplo en esta guia voy a desplegar un sencillo Hola Mundo! en Flask enla plataforma Heroku. Para esto sera necesario crear una cuenta gratuita en **Heroku** e instalar Heroku CLI.
+Como ejemplo en esta guia voy a desplegar un sencillo Hola Mundo! en Flask en la plataforma Heroku. Para esto sera necesario crear una cuenta gratuita en **Heroku** e instalar Heroku CLI.
 
 Localmente creamos un directorio para nuestra aplicacion:
 
