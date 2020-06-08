@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Angel Roy Bernal - Un hacker de fin de semana
+name: Un hacker de fin de semana, por Angel Roy Bernal
 
 # Short bio or description (displayed in the header)
-description: Un blog sobre Programación, Linux y otros experimentos más
+description: Un poco sobre Programación, Linux y algo más
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: angelroybernal@gmail.com
+  email: angelroybernal@protonmail.com
   facebook:
   flickr:
   github: angelroybernal

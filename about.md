@@ -4,12 +4,12 @@ title: Acerca de mí
 permalink: /about/
 ---
 
-Algo de información acerca de mí!
+Un poco acerca de mí!
 
-### Información
+### ¿Quién soy yo?
 
-Un informático más tratando de comprender toda la fascinante tecnología a nuestra disposición. Actualmente Analista de Seguridad de TI en una institución financiera. Usuario de Linux desde hace más de 10 años y anteriormente consultor junior de Ciberseguridad para una firma auditora.
+Otro humano más tratando de comprender el fantástico universo de conocimiento disponible en Internet, adicto a la lectura con muchas ganas de aprender y descubrir nuevas formas de ver el mundo que nos rodea. Analista de Seguridad en un banco y anteriormente consultor junior de Ciberseguridad para una firma Big Four. Python, DevSecOps, Linux, SQL... 
 
 ### Contáctame
 
-[angelroybernal@gmail.com](mailto:angelroybernal@gmail.com)
+[angelroybernal@protonmail.com](mailto:angelroybernal@protonmail.com)
