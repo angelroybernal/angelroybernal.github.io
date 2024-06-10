@@ -1,3 +1,3 @@
-## Mi Blog en GitHub Pages
+## Mi CV en GitHub Pages
 
-Contiene la estructura de mi blog en GitHub Pages, es un Fork de [Jekyll Now](https://github.com/barryclark/jekyll-now) por Barry Clark.
+Contiene la estructura de mi CV en GitHub Pages.
