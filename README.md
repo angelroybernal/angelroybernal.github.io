@@ -1,3 +1,3 @@
-## Mi CV en GitHub Pages
+## Mi sitio personal en GitHub Pages
 
-Contiene la estructura de mi CV en GitHub Pages.
+Mi sitio personal
