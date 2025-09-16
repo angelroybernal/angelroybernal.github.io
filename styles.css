@@ -46,7 +46,7 @@ header{
   margin-bottom:4px;
 }
 .avatar{
-  width:92px;height:92px;border-radius:12px;background:linear-gradient(135deg,var(--accent),#60a5fa);
+  width:92px;height:92px;border-radius:12px;
   flex:0 0 92px;display:flex;align-items:center;justify-content:center;font-weight:700;color:#04263a;
   box-shadow:0 6px 20px rgba(11,19,32,0.6);
 }
